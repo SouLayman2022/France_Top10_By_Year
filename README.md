@@ -1,6 +1,4 @@
-<span style="text-align:center; color:#AE2F88; font-size:60px">
-Entreprises françaises par chiffre d'affaires 1995-2023
-</span>
+# Entreprises françaises par chiffre d'affaires 1995-2023
 </br>
 <img src="./Intro.png" style="width:900px; height:auto">
 
